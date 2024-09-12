@@ -1,16 +1,13 @@
 # firbase_auth
 
-A new Flutter project.
+## Sign Up View 
 
-## Getting Started
+![Screenshot_1726152512](https://github.com/user-attachments/assets/7c0d1415-059b-4c10-9f2a-e37d4a236e38)
 
-This project is a starting point for a Flutter application.
+## Login View
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1726152515](https://github.com/user-attachments/assets/f0419eb5-5dd5-42f6-98d6-255402d1fd66)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## navigate to home view If Login or sign up method are success 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1726152532](https://github.com/user-attachments/assets/71a2060e-fc87-47d5-ad4c-f21ed072efc6)
